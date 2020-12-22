@@ -20,6 +20,8 @@ library(ggplot2)
 #setwd("C:/Users/Allen/Desktop/final project")
 raw_data <- read.csv("enrolment_unique_headcount_0.csv", fileEncoding="UTF-8-BOM")
 ```
+## Github
+https://github.com/youhjjhhhjj/5howqCgU3f
 
 # Abstract
 For the purpose of investigating any potential gender disparity in university institutions, the 2016/2017 University of Waterloo student headcount data was used to build a multivariable logistic regression model that relates an individual's gender to their year of study, faculty group, co-op/attendance/work-term status, and visa status. The resulting model shows that some factors are significantly correlated with gender, which suggests that men and women may not be on an even playing field in their university studies. An analysis is carried out that relates the results to established knowledge regarding gender differences in post-secondary institutions.
